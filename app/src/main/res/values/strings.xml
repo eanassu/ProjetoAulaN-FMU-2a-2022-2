@@ -4,4 +4,5 @@
     <string name="txtValor">valor:</string>
     <string name="txtGorjeta">gorjeta:</string>
     <string name="txtTotal">total:</string>
+    <string name="txtDesenho">Desenho</string>
 </resources>
