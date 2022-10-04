@@ -104,4 +104,13 @@ public class DesenhoView extends View {
         bitmapCanvas.drawPath(path,paintLine);
         path.reset();
     }
+
+    public void clear() {
+        pathMap.clear();
+        previousPointMap.clear();
+        if ( bitmap != null ) {
+            bitmap.eraseColor(Color.WHITE);
+        }
+        invalidate();
+    }
 }

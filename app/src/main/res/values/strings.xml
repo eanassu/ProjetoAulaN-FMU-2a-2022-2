@@ -1,8 +1,11 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">ProjetoAulaN</string>
     <string name="txtCalculadoraDeGorjeta">Calculadora de Gorjeta</string>
     <string name="txtValor">valor:</string>
     <string name="txtGorjeta">gorjeta:</string>
     <string name="txtTotal">total:</string>
     <string name="txtDesenho">Desenho</string>
+    <string name="txtSensores">Sensores</string>
+    <string name="txtTesteSensores">Teste Sensores</string>
+
 </resources>
