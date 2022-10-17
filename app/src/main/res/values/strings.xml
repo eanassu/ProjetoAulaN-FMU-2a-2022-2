@@ -7,5 +7,6 @@
     <string name="txtDesenho">Desenho</string>
     <string name="txtSensores">Sensores</string>
     <string name="txtTesteSensores">Teste Sensores</string>
+    <string name="txtTesteBD">Teste Banco de Dados</string>
 
 </resources>

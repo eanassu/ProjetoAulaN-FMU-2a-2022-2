@@ -28,4 +28,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, SensorActivity.class);
         startActivity(intent);
     }
+
+    public void abrirTesteBD(View view) {
+        Intent intent = new Intent(this, TesteBDActivity.class);
+        startActivity(intent);
+    }
 }
