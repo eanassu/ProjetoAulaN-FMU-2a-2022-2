@@ -8,5 +8,15 @@
     <string name="txtSensores">Sensores</string>
     <string name="txtTesteSensores">Teste Sensores</string>
     <string name="txtTesteBD">Teste Banco de Dados</string>
+    <string name="txtRe">RE</string>
+    <string name="txtNome">nome</string>
+    <string name="txtDataAdm">Data de Admissão</string>
+    <string name="txtSalario">Salário</string>
+    <string name="txtFuncao">Função</string>
+    <string name="txtCadastrar">Cadastrar</string>
+    <string name="txtExcluir">Excluir</string>
+    <string name="txtAlterar">Alterar</string>
+    <string name="txtBuscar">Buscar</string>
+    <string name="txtListar">Listar</string>
 
 </resources>
