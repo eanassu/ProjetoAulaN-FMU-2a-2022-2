@@ -2,6 +2,7 @@ package br.fmu.projetoaulan;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
@@ -83,5 +84,9 @@ public class TesteBDActivity extends AppCompatActivity {
         editTextDataAdmissao.setText("");
         editTextSalario.setText("");
         editTextFuncao.setText("");
+    }
+    public void listar(View view) {
+        Intent intent = new Intent(this,ListaActivity.class);
+        startActivity(intent);
     }
 }
