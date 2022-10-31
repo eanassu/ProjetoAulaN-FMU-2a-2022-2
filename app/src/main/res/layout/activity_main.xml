@@ -48,4 +48,13 @@
         app:layout_constraintEnd_toEndOf="@+id/button3"
         app:layout_constraintStart_toEndOf="@+id/button3"
         app:layout_constraintTop_toBottomOf="@+id/button3" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="abrirTesteTCP"
+        android:text="@string/txtTesteTCP"
+        tools:layout_editor_absoluteX="53dp"
+        tools:layout_editor_absoluteY="322dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
